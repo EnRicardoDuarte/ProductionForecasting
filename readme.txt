@@ -1,3 +1,5 @@
+Production Forecasting in Semiconductor Manufacturing - By Ricardo Duarte
+
 #ABSTRACT:
 
 Semiconductor manufacturers are continuously ramping up production capacity and intensively searching for ways to optimize its usage. One important tool for production optimization and planning is the forecasting of future production performance. The current state-of-the-art for forecasting production is fab simulation, where different production scenarios are simulated in order to predict possible outcomes. This however consumes large amounts of time and computing resources and does not offer a continuously updated real-time representation of production forecasting. As the industry moves into new challenges like high diversification of products and services, production must be as flexible and agile as possible which requires the continuous creation and update of accurate forecasts.
